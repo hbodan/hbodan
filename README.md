@@ -23,7 +23,7 @@
 <br></br>
 - 1️⃣ My First Github account: [Click Here](https://github.com/BodanHarry)
 <br></br>
-- 2️⃣ My Personal Github account: [Click Here] (https://github.com/HarryBodan)
+- 2️⃣ My Personal Github account: [Click Here](https://github.com/HarryBodan)
 <br></br>
 
 <hr style="border-color:purple;">
