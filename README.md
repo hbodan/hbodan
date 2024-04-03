@@ -12,13 +12,19 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
-[Check the official documentation on POSTMAN](https://documenter.getpostman.com/view/30336196/2s9YRCYBst)
+
 - 🔭 I’m currently working on my side projects
+<br></br>
 - 🌱 I’m currently studying Systems Engineering
+<br></br>
 - 💬 JAVA is my favorite programming language
+<br></br>
 - ⚡ Fun fact: This is my third Github account!
-- 1️⃣ [My First Github account:] (https://github.com/BodanHarry)
-- 2️⃣ [My Personal Github account:] (https://github.com/HarryBodan)
+<br></br>
+- 1️⃣ My First Github account: [Click Here](https://github.com/BodanHarry)
+<br></br>
+- 2️⃣ My Personal Github account: [Click Here] (https://github.com/HarryBodan)
+<br></br>
 
 <hr style="border-color:purple;">
 
@@ -59,7 +65,7 @@
 
 <hr style="border:15px;"><hr style="border:2px;">
 
-<h4 align="center">Do you wanna contact me?</h4>
+<h4 align="center">Do you want to contact me?</h4>
 <p align="center"> <a href="https://www.linkedin.com/in/harry-bod%C3%A1n-3a9875236/" target="_blank" rel="noreferrer"> <img src="./src/Linkedin.png" alt="My Linkedin Profile" width="55" height="50"/> <a href="https://www.instagram.com/h_bodann/" target="_blank" rel="noreferrer"> <img src="./src/instagram.svg" alt="Mi Instagram Profile" width="55" height="50"/> <a href="https://www.facebook.com/harry.bodan.5" target="_blank" rel="noreferrer"> <img src="./src/Facebook.webp" alt="My Facebook Profile" width="55" height="50"/> 
 
 <hr style="border:15px;"><hr style="border:2px;">
