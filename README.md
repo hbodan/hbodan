@@ -71,6 +71,6 @@
 <hr style="border:15px;"><hr style="border:2px;">
 
 ## 💥 My First GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BodanHarry" alt="BodanHarry" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbodan" alt="BodanHarry" /></a> </p>
 
 <hr style="border:15px;"><hr style="border:2px;">
